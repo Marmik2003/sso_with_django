@@ -1,0 +1,9 @@
+# Gitignore files
+
+__pycache__/
+venv/
+*.egg-info/
+
+.DS_Store
+.env
+db.sqlite3
